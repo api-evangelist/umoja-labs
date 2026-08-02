@@ -1,0 +1,12 @@
+generated: '2026-07-21'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: umoja.xyz
+  https: false
+domains:
+- domain: umoja.xyz
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: false

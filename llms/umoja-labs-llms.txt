@@ -1,0 +1,20 @@
+# Umoja Labs
+
+> Umoja Labs is the company behind Umoja Protocol, a decentralized-finance product described as a "next-gen yield vault token (YVT) protocol earning yield on blue-chip cryptos," with automated hedging strategies and the $UMJA token. A 500 Global portfolio company. As of July 2026 the umoja.xyz website and app are offline (TLS handshake failure; Cloudflare error 1001) and the blog has been dormant since April 2025. No public API, developer documentation, or first-party SDKs were found.
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + live probes of umoja.xyz, blog.umoja.xyz, github.com/Umoja-Labs -->
+
+## Company
+
+- [Website](https://umoja.xyz): Main site (OFFLINE as of 2026-07-21 — TLS handshake failure on 443, Cloudflare error 1001 on 80)
+- [Blog](https://blog.umoja.xyz): Umoja Protocol publication on Medium (live; last post 2025-04-25 "TLDR"; earlier posts cover the $2M raise, hedging beta, $UMJA token reset, and sunsetting the Synths product)
+- [GitHub](https://github.com/Umoja-Labs): Umoja-Labs organization (2 public repos, both forks: DefiLlama-Adapters, gmx_python_sdk)
+- [Twitter/X](https://twitter.com/UmojaProtocol): @UmojaProtocol
+
+## APIs
+
+No public API surface found. docs.umoja.xyz, api.umoja.xyz, and status.umoja.xyz do not resolve; umoja.money (the earlier "blockchain-enabled payment infrastructure" site referenced by the GitHub org) returns a Framer "Site Not Found" page.
+
+## Specs
+
+None published.
